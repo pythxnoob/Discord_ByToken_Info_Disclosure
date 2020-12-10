@@ -29,3 +29,4 @@ Run
 # TODO
 * Friend list dumping
 * Messages dumping
+* Account exploiting
