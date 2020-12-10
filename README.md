@@ -17,7 +17,9 @@ Discord account info disclosure with token
 </code>
 
 # Usage
+Enter token in "token" file
 
+Run
 <code>
   python3 main.py [discord_token]
 </code>
