@@ -21,7 +21,7 @@ Enter token in "token" file
 
 Run
 <code>
-  python3 main.py [discord_token]
+  python3 discord.py [discord_token]
 </code>
 
 
